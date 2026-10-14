@@ -1,0 +1,101 @@
+customer_id,age,gender,city,education,monthly_income,purchases,avg_order_value,website_visits,days_since_last_purchase,discount_used,membership,satisfaction_score
+C1001,56,Male,Kochi,Bachelor,43945.0,8,3840.88,26,5,No,Silver,5
+C1002,46,Male,Wayanad,Bachelor,50217.0,7,2068.42,26,82,No,Basic,1
+C1003,32,Female,Kochi,High School,26308.0,14,692.45,2,92,Yes,Gold,5
+C1004,60,Female,Kannur,Bachelor,,5,3952.59,22,42,Yes,Silver,5
+C1005,25,Female,Kozhikode,High School,69990.0,12,2924.5,22,61,No,Silver,3
+C1006,38,Male,Thrissur,,19150.0,1,2293.84,3,22,No,Silver,2
+C1007,56,Female,Kannur,Bachelor,92740.0,7,,27,21,Yes,Gold,1
+C1008,36,Male,Kochi,Bachelor,84617.0,13,822.63,18,70,No,Silver,3
+C1009,40,Male,Thrissur,Master,34896.0,7,2615.34,12,1,Yes,Silver,2
+C1010,28,Female,Kochi,Bachelor,64175.0,9,353.36,1,5,No,Silver,2
+C1011,28,Female,Kochi,,25805.0,3,2502.71,22,105,Yes,Basic,4
+C1012,41,Male,Kozhikode,High School,23237.0,9,564.63,12,12,Yes,Basic,1
+C1013,53,Male,Thrissur,Bachelor,38056.0,14,858.44,5,90,Yes,Silver,2
+C1014,57,Female,Thrissur,Bachelor,63543.0,1,852.37,30,46,No,Silver,3
+C1015,41,Female,Kozhikode,High School,74556.0,1,3351.29,30,34,No,Silver,4
+C1016,20,Female,Kannur,Master,,14,3806.41,27,49,Yes,Basic,1
+C1017,39,Male,Kochi,Bachelor,31500.0,4,3041.83,25,78,No,Silver,5
+C1018,19,Male,Wayanad,Master,71222.0,9,4822.21,17,90,Yes,Basic,3
+C1019,41,Male,Kochi,Bachelor,47375.0,6,2061.89,16,45,No,Silver,2
+C1020,47,Male,Kochi,Master,27662.0,13,1642.85,15,27,Yes,Silver,2
+C1021,55,Male,Kannur,Bachelor,34964.0,11,4382.42,23,73,Yes,Silver,3
+C1022,19,Male,Kochi,Bachelor,77638.0,3,1350.9,15,26,No,Silver,2
+C1023,38,Female,Kozhikode,Bachelor,91666.0,1,4827.15,5,47,No,Silver,4
+C1024,50,Male,Kozhikode,High School,85215.0,4,357.13,21,86,No,Basic,1
+C1025,29,Male,Thrissur,Bachelor,87042.0,12,4858.43,14,111,No,Silver,4
+C1026,39,Male,Wayanad,Bachelor,31284.0,13,,2,56,No,Basic,2
+C1027,42,Female,Kochi,High School,90789.0,9,4488.37,11,94,Yes,Silver,5
+C1028,44,Male,Kochi,Bachelor,79389.0,3,2780.2,19,107,No,Silver,1
+C1029,59,Male,Kannur,High School,27435.0,12,4966.93,7,63,No,Silver,1
+C1030,45,Female,Kozhikode,Master,72340.0,9,646.84,6,48,No,Silver,3
+C1031,33,Male,Wayanad,Master,62078.0,7,2903.12,28,61,No,Gold,3
+C1032,32,Male,Thrissur,Master,96832.0,12,4855.72,2,81,No,Gold,5
+C1033,20,Male,Kozhikode,Bachelor,69293.0,14,2758.56,6,26,No,Basic,1
+C1034,54,Male,Thrissur,High School,96781.0,15,3258.17,18,36,No,Basic,5
+C1035,24,Male,Kannur,Master,78403.0,4,3570.02,2,1,No,Basic,3
+C1036,38,Female,Kannur,Bachelor,47124.0,3,2436.34,18,8,Yes,Basic,3
+C1037,26,Female,Kochi,Master,61919.0,10,3249.52,30,113,No,Silver,1
+C1038,56,Female,Wayanad,Master,53247.0,15,3046.28,15,99,No,Gold,4
+C1039,35,Male,Thrissur,Master,80752.0,5,4535.44,27,52,Yes,Basic,2
+C1040,21,Male,Kozhikode,Bachelor,74573.0,5,513.6,19,79,No,Basic,3
+C1041,42,Male,Kannur,Bachelor,77101.0,3,1620.53,2,47,No,Basic,3
+C1042,31,Female,Kochi,Master,44646.0,12,4766.93,20,56,No,Silver,4
+C1043,26,Male,Kochi,Bachelor,41049.0,9,4484.24,25,86,No,Silver,4
+C1044,43,Male,Thrissur,High School,97605.0,4,2441.59,6,14,Yes,Basic,5
+C1045,19,Female,Kannur,Bachelor,86385.0,11,,1,90,No,Gold,5
+C1046,37,Male,Wayanad,Master,58158.0,5,1603.69,24,28,No,Silver,2
+C1047,45,Female,Kannur,Bachelor,83417.0,4,1184.17,15,87,Yes,Basic,2
+C1048,24,Female,Thrissur,Bachelor,41289.0,5,2479.38,28,78,No,Silver,1
+C1049,25,Female,Thrissur,High School,27823.0,7,1960.76,30,88,Yes,Silver,5
+C1050,52,Male,Kannur,Bachelor,78160.0,9,3043.18,23,2,No,Basic,3
+C1051,31,Male,Thrissur,Master,59975.0,7,665.35,10,109,No,Basic,5
+C1052,34,Male,Kannur,High School,27540.0,13,4879.66,19,26,No,Basic,3
+C1053,53,Male,Kozhikode,Bachelor,34364.0,5,4935.19,17,14,Yes,Basic,4
+C1054,57,Male,Kannur,Master,22611.0,10,3581.36,5,59,No,Gold,5
+C1055,21,Male,Kannur,Bachelor,45663.0,10,2819.65,29,56,Yes,Gold,4
+C1056,19,Male,Thrissur,Bachelor,69991.0,7,1754.78,4,115,Yes,Basic,2
+C1057,23,Female,Thrissur,Bachelor,75679.0,14,4124.84,10,7,Yes,Basic,2
+C1058,59,Male,Kochi,Bachelor,48977.0,15,3518.24,24,3,Yes,Basic,1
+C1059,21,Female,Kochi,Bachelor,67115.0,10,1064.3,17,111,No,Basic,5
+C1060,46,Male,Kozhikode,Master,78890.0,5,4581.36,10,23,No,Gold,4
+C1061,35,Male,Kochi,Master,84387.0,3,4165.93,17,110,No,Basic,3
+C1062,43,Male,Kannur,Master,36071.0,7,4764.06,28,107,Yes,Basic,2
+C1063,51,Female,Thrissur,,77275.0,13,3710.88,20,111,No,Basic,2
+C1064,27,Female,Kochi,Bachelor,90369.0,11,3183.05,24,109,No,Silver,3
+C1065,53,Female,Kochi,Bachelor,29938.0,11,2265.74,5,18,No,Basic,4
+C1066,31,Female,Kozhikode,Master,53195.0,2,4683.82,2,38,No,Silver,4
+C1067,48,Male,Kozhikode,Bachelor,22000.0,15,4370.5,6,99,No,Basic,5
+C1068,32,Female,Kannur,Bachelor,88588.0,12,512.53,21,115,Yes,Silver,5
+C1069,25,Male,Thrissur,Master,56304.0,9,423.92,2,15,Yes,Silver,1
+C1070,31,Male,Kozhikode,Master,,10,2069.38,13,64,No,Basic,2
+C1071,40,Female,Kochi,Bachelor,38764.0,10,4109.6,30,89,No,Basic,5
+C1072,57,Female,Thrissur,Bachelor,56494.0,12,4940.2,11,119,Yes,Gold,4
+C1073,38,Female,Thrissur,High School,21373.0,1,1006.96,11,101,No,Gold,3
+C1074,33,Female,Kochi,Bachelor,30161.0,13,3092.41,16,28,No,Silver,4
+C1075,35,Female,Kozhikode,High School,45350.0,6,2090.19,11,74,No,Silver,2
+C1076,41,Female,Kochi,Bachelor,43351.0,7,4858.6,19,39,No,Gold,4
+C1077,43,Female,Thrissur,Bachelor,33305.0,14,4257.96,15,57,No,Silver,1
+C1078,42,Female,Wayanad,Bachelor,93353.0,13,4240.14,25,17,Yes,Basic,2
+C1079,58,Male,Wayanad,Bachelor,94797.0,8,2502.86,23,103,Yes,Gold,3
+C1080,46,Female,Kannur,High School,83953.0,10,2249.65,23,86,No,Basic,1
+C1081,32,Female,Kochi,High School,75458.0,9,1585.01,16,90,No,Silver,2
+C1082,18,Male,Kochi,Master,38358.0,2,564.96,11,44,Yes,Basic,3
+C1083,42,Female,Kannur,Bachelor,21267.0,11,4364.2,22,25,No,Basic,1
+C1084,24,Male,Kannur,High School,56513.0,10,4120.63,16,17,No,Basic,1
+C1085,26,Male,Kannur,Bachelor,44092.0,2,4998.67,8,13,No,Silver,2
+C1086,41,Female,Thrissur,Master,29338.0,5,4984.19,4,84,No,Basic,5
+C1087,18,Male,Kochi,High School,18412.0,13,2910.53,8,25,No,Basic,1
+C1088,25,Male,Thrissur,Bachelor,25543.0,5,3914.24,4,68,No,Basic,1
+C1089,41,Male,Kannur,High School,51496.0,6,4740.4,24,10,No,Silver,3
+C1090,28,Male,Kochi,High School,78692.0,3,4293.34,25,67,No,Gold,4
+C1091,34,Female,Thrissur,Bachelor,62425.0,8,1462.54,3,105,No,Silver,2
+C1092,25,Male,Thrissur,Bachelor,56756.0,13,2417.56,3,109,Yes,Silver,2
+C1093,52,Female,Kannur,Bachelor,36888.0,1,907.05,27,18,Yes,Gold,5
+C1094,52,Male,Kochi,Bachelor,53735.0,6,4784.04,29,111,No,Silver,5
+C1095,50,Male,Kannur,Master,65295.0,4,3149.02,18,100,Yes,Basic,2
+C1096,22,Male,Kochi,Bachelor,35955.0,1,1374.62,29,111,Yes,Basic,5
+C1097,59,Male,Wayanad,Bachelor,55841.0,15,3456.99,26,86,No,Basic,3
+C1098,56,Female,Kozhikode,Master,88640.0,7,3205.2,19,34,No,Basic,2
+C1099,58,Female,Kozhikode,Bachelor,83510.0,9,1983.36,19,111,Yes,Basic,5
+C1100,45,Male,Kozhikode,Bachelor,52911.0,13,833.72,21,8,No,Silver,2
